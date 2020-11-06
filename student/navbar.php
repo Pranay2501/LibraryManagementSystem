@@ -22,7 +22,7 @@
                 <ul class="nav navbar-nav">                                  
                     <li><a href="index.php">HOME</a></l1>
                     <li><a href="books.php">BOOKS</a></li>
-                    <li><a href="feedback.php">ABOUT</a></li>
+                    <li><a href="feedback.php">FEEDBACK</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="student_login.php"><span class="glyhicon glyphicon-log-in"> LOGIN </span></a></li>

@@ -50,14 +50,11 @@ nav li{
             </div>
         </div>
         </section>
-
-        <footer style="color: white; text-align: center;">
-            <p>
-                <br>
-                E-Mail:&nbsp lib.mail@gmail.com <br><br>     <!--nbsp means non breakable space to ensure spacing-->
-                Mobile:&nbsp 9876543221  
-            </p>
-        </footer>
 </div>
+
+<?php 
+    include "footer.php";
+    ?>
+
 </body>
 </html>
